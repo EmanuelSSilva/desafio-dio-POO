@@ -5,7 +5,7 @@ public class Curso {
     private String descricao;
     private int cargaHorario;
 
-    public Curso() { //Contructor Default "VAZIO"
+    public Curso() { //Contructor Default "VAZIO."
     }
 
     public String getTitulo() {

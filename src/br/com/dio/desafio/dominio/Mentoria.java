@@ -7,7 +7,7 @@ public class Mentoria {
     private String descricao;
     private LocalDate data;
 
-    public Mentoria() { // Contructor Default "VAZIO"
+    public Mentoria() { // Contructor Default "VAZIO."
     }
 
     public String getTitulo() {
